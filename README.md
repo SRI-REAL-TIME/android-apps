@@ -12,7 +12,7 @@ to ship an update:
 | --- | --- |
 | `pasumaivelanmai.apk` | Pasumaivelanmai â€” for farmers |
 | `pv-seller.apk` | PV Seller â€” for sellers and manufacturers |
-| `badaga-matrimony.apk` | Badaga Matrimony |
+| `badaga-matrimony.apk` | RK Badaga Matrimony |
 
 ```sh
 gh release create v<date> --repo SRI-REAL-TIME/android-apps --title "<date>" \
